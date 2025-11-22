@@ -15,7 +15,7 @@ Do not forget to add your skins to `pfUI-addonskinner.toc` file.
 
 ## Installation
 **This addon will not function without [pfUI](https://github.com/shagu/pfUI) installed**
-1. Download **[Latest Version](https://github.com/mrrosh/pfUI-addonskinner/archive/refs/heads/master.zip)**
+1. Download **[Latest Version](https://github.com/whtmst/pfUI-AddonSkinner/archive/refs/heads/master.zip)**
 2. Unpack the Zip file
 3. Rename the folder to "pfUI-addonskinner"
 4. Copy "pfUI-addonskinner" into Wow-Directory\Interface\AddOns
