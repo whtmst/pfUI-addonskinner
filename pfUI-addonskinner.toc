@@ -54,6 +54,8 @@ skins\SP_SwingTimer.lua
 skins\SuperIgnore.lua
 skins\SuperInspect_UI.lua
 skins\SuperMacro.lua
+skins\T-Bidder.lua
+skins\T-RollTracker.lua
 skins\TalentSequence.lua
 skins\Thaliz.lua
 skins\TimeManager.lua
